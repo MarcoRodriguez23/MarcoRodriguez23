@@ -4,19 +4,37 @@
 
 Soy web developer enfocado a back-end en PHP, aprendiendo Laravel 9 y próximamente React.js
 Actualmente me encuentro en mi último semestre de la carrea de Ingenieria en informática en UPIICSA-IPN en donde he podido adquirir una amplia gama de conocimientos entre los cuáles se encuentra: 
-  -Pensamiento lógico
-  -POO
-  -Realidad virtual
-  -Realidad aumentada
-  -Manejo de bases de datos
-  -Administración empresarial
-  -Ingeniería económica
-  -Gestión de proyectos
+<ul>
+  <li>
+    Pensamiento lógico
+  </li>
+  <li>
+    POO
+  </li>
+  <li>
+    Realidad virtual
+  </li>
+  <li>
+    Realidad aumentada
+  </li>
+  <li>
+    Manejo de bases de datos
+  </li>
+  <li>
+    Administración empresarial
+  </li>
+  <li>
+    Ingeniería económica
+  </li>
+  <li>
+    Gestión de proyectos
+  </li>
+</ul>
 
 Me apasiona programar ♥️💻♥️, considero muy interesante el flujo que puede tener la información para que las personas puedan disfrutar de un producto o servicio y así facilitar o mejorar ciertas tareas de su vida.
-<pre>
-  Mi idioma nativo es el español &U+1F1F2; y cuento con un nivel intermedio de inglés &U+1F1FA; el cual busco mejorar día a día.
-</pre>
+
+  Mi idioma nativo es el español y cuento con un nivel intermedio de inglés el cual busco mejorar día a día.
+
 Me gusta pasar tiempo con mi familia 👪, jugar videojuegos principalmente de aventura 🎮, ver peliculas en donde mi género preferido es el terror 🎬 y por supuesto aprender, practicar y mejoras mis habilidades como programador 🏆.
 
 
