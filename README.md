@@ -2,9 +2,9 @@
 
 ### Soy Marco Rodriguez, tal parace que te interesa conocer sobre mí 👀 asi que dejame contarte un poco 😎
 
-Soy web developer enfocado a back-end en PHP, aprendiendo Laravel 9 y próximamente React.js
+Soy web developer enfocado a back-end en PHP, aprendiendo actualmente Laravel 9 el cual considero un framework bastante potente. 
 <br>
-Actualmente me encuentro en mi último semestre de la carrea de Ingenieria en informática en UPIICSA-IPN en donde he podido adquirir una amplia gama de conocimientos entre los cuáles se encuentra: 
+Me encuentro en mi último semestre de la carrea de Ingenieria en informática en UPIICSA-IPN (finalizando en Febrero 2023) en donde he podido adquirir una amplia gama de conocimientos entre los cuáles se encuentra: 
 <ul>
   <li>
     Pensamiento lógico
